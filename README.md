@@ -1,7 +1,7 @@
 # central
 
 - 157 public repos
-- 27474 commits
+- 27958 commits
 
 |                                                  Lang                                                   | Repo |  %  | Commit |  %  |
 |---------------------------------------------------------------------------------------------------------|------|-----|--------|-----|
@@ -10,21 +10,21 @@
 | ![C++](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/C++.svg) C++                      |    1 | 0%  |      5 | 0%  |
 | ![CSS](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/CSS.svg) CSS                      |    1 | 0%  |     53 | 0%  |
 | ![Dockerfile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Dockerfile.svg) Dockerfile |    4 | 2%  |     25 | 0%  |
-| ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |   15 | 9%  |   3236 | 11% |
-| ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |   50 | 31% |   6287 | 22% |
+| ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |   15 | 9%  |   3238 | 11% |
+| ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |   50 | 31% |   6756 | 24% |
 | ![HTML](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/HTML.svg) HTML                   |    2 | 1%  |      6 | 0%  |
 | ![Haskell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Haskell.svg) Haskell          |    1 | 0%  |      4 | 0%  |
 | ![JavaScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/JavaScript.svg) JavaScript |   11 | 7%  |    332 | 1%  |
 | ![Less](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Less.svg) Less                   |    1 | 0%  |     73 | 0%  |
 | ![Makefile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Makefile.svg) Makefile       |    3 | 1%  |    107 | 0%  |
-| ![Markdown](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Markdown.svg) Markdown       |    1 | 0%  |   3794 | 13% |
-| ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    7 | 4%  |   8559 | 31% |
+| ![Markdown](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Markdown.svg) Markdown       |    1 | 0%  |   3802 | 13% |
+| ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    7 | 4%  |   8561 | 30% |
 | ![PHP](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/PHP.svg) PHP                      |    4 | 2%  |    261 | 0%  |
 | ![Python](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Python.svg) Python             |    6 | 3%  |    237 | 0%  |
 | ![Ruby](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Ruby.svg) Ruby                   |   20 | 12% |   1537 | 5%  |
 | ![Rust](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Rust.svg) Rust                   |    5 | 3%  |    610 | 2%  |
 | ![Scala](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Scala.svg) Scala                |    1 | 0%  |      6 | 0%  |
-| ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |    5 | 3%  |    645 | 2%  |
+| ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |    5 | 3%  |    648 | 2%  |
 | ![Starlark](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Starlark.svg) Starlark       |    1 | 0%  |     15 | 0%  |
 | ![TypeScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/TypeScript.svg) TypeScript |   14 | 8%  |   1594 | 5%  |
 | ![Vue](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Vue.svg) Vue                      |    1 | 0%  |     12 | 0%  |
@@ -44,11 +44,11 @@
 | [command-analyze-mode](https://github.com/kijimad/command-analyze-mode)     | key optimization hint for Emacs                                            | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |      1 |    0 |    0 |
 | [ob-go-test](https://github.com/kijimad/ob-go-test)                         | org-babel extension for go test                                            | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |      2 |    0 |    0 |
 | [ob-twoslash](https://github.com/kijimad/ob-twoslash)                       | org-babel extension for twoslash                                           | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |      3 |    0 |    0 |
-| [roam](https://github.com/kijimad/roam)                                     | Notes written using Emacs Org-roam + denote                                | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |   2025 |    7 |    1 |
+| [roam](https://github.com/kijimad/roam)                                     | Notes written using Emacs Org-roam + denote                                | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |   2026 |    7 |    1 |
 | [ob-go-asm](https://github.com/kijimad/ob-go-asm)                           | Org-Babel support for dumping Go assembly                                  | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |      3 |    0 |    1 |
 | [ob-git-permalink](https://github.com/kijimad/ob-git-permalink)             | Import GitHub code given a permalink                                       | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |     33 |    6 |    1 |
 | [my_elisp](https://github.com/kijimad/my_elisp)                             | Emacs Lisp snippets                                                        | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |     39 |    0 |    0 |
-| [.emacs.d](https://github.com/kijimad/.emacs.d)                             | Emacs settings                                                             | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |    815 |    1 |    0 |
+| [.emacs.d](https://github.com/kijimad/.emacs.d)                             | Emacs settings                                                             | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |    816 |    1 |    0 |
 | [egh](https://github.com/kijimad/egh)                                       |                                                                            | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |      4 |    0 |    0 |
 | [create-link](https://github.com/kijimad/create-link)                       | Format link generator package for Emacs.                                   | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |    208 |   11 |    4 |
 | [current-word-highlight](https://github.com/kijimad/current-word-highlight) | Highlight current word minor mode.                                         | ![Emacs Lisp](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Emacs-Lisp.svg) Emacs Lisp |     89 |    3 |    2 |
@@ -76,7 +76,7 @@
 | [golife](https://github.com/kijimad/golife)                                 | implement Conway's Game of Life                                            | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |    112 |    0 |    0 |
 | [gorg](https://github.com/kijimad/gorg)                                     | org parser                                                                 | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     29 |    1 |    0 |
 | [gorun](https://github.com/kijimad/gorun)                                   | task runner like GitHub Actions syntax                                     | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     51 |    0 |    0 |
-| [ruins](https://github.com/kijimad/ruins)                                   | just a roguelike                                                           | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |   3791 |   20 |    2 |
+| [ruins](https://github.com/kijimad/ruins)                                   | just a roguelike                                                           | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |   4260 |   18 |    2 |
 | [goweb](https://github.com/kijimad/goweb)                                   | memo『Goプログラミング実践入門』                                           | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     11 |    0 |    0 |
 | [pgpg](https://github.com/kijimad/pgpg)                                     |  PostgreSQL Playground for org-babel                                       | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |      5 |    0 |    0 |
 | [parakeet](https://github.com/kijimad/parakeet)                             | filename schema tool                                                       | ![Go](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Go.svg) Go                         |     25 |    0 |    0 |
@@ -123,10 +123,10 @@
 | [my_openapi](https://github.com/kijimad/my_openapi)                         |                                                                            | ![Makefile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Makefile.svg) Makefile       |     12 |    0 |    0 |
 | [goskel](https://github.com/kijimad/goskel)                                 | Go template repository                                                     | ![Makefile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Makefile.svg) Makefile       |     89 |    0 |    0 |
 | [portpoc](https://github.com/kijimad/portpoc)                               | port PoC                                                                   | ![Makefile](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Makefile.svg) Makefile       |      6 |    0 |    0 |
-| [upptime](https://github.com/kijimad/upptime)                               | 📈 Uptime monitor and status page for Kijima Daigo, powered by @upptime    | ![Markdown](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Markdown.svg) Markdown       |   3794 |    0 |    0 |
+| [upptime](https://github.com/kijimad/upptime)                               | 📈 Uptime monitor and status page for Kijima Daigo, powered by @upptime    | ![Markdown](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Markdown.svg) Markdown       |   3802 |    0 |    0 |
 | [games](https://github.com/kijimad/games)                                   | game dotfiles                                                              | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |      2 |    0 |    0 |
-| [ghfetcher](https://github.com/kijimad/ghfetcher)                           | sync forked repository                                                     | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    164 |    0 |    0 |
-| [central](https://github.com/kijimad/central)                               | datastore of act                                                           | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    509 |    0 |    0 |
+| [ghfetcher](https://github.com/kijimad/ghfetcher)                           | sync forked repository                                                     | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    165 |    0 |    0 |
+| [central](https://github.com/kijimad/central)                               | datastore of act                                                           | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    510 |    0 |    0 |
 | [cover](https://github.com/kijimad/cover)                                   | golang/go coverage                                                         | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |      8 |    0 |    0 |
 | [kijimad](https://github.com/kijimad/kijimad)                               | profile page                                                               | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |   7326 |    0 |    0 |
 | [roam-ui](https://github.com/kijimad/roam-ui)                               | orgファイル群をorg-roam-uiでビルドする用のリポジトリ                       | ![None](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/None.svg) None                   |    484 |    1 |    0 |
@@ -170,7 +170,7 @@
 | [or](https://github.com/kijimad/or)                                         | local history                                                              | ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |     56 |    0 |    0 |
 | [buseum](https://github.com/kijimad/buseum)                                 | Binary Museum Exhibits                                                     | ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |     23 |    0 |    0 |
 | [coverage_to_slack](https://github.com/kijimad/coverage_to_slack)           |                                                                            | ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |      7 |    0 |    0 |
-| [dotfiles](https://github.com/kijimad/dotfiles)                             | System settings                                                            | ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |    543 |    2 |    0 |
+| [dotfiles](https://github.com/kijimad/dotfiles)                             | System settings                                                            | ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |    546 |    2 |    0 |
 | [bash](https://github.com/kijimad/bash)                                     |                                                                            | ![Shell](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Shell.svg) Shell                |     16 |    0 |    0 |
 | [lhub](https://github.com/kijimad/lhub)                                     |                                                                            | ![Starlark](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/Starlark.svg) Starlark       |     15 |    0 |    0 |
 | [adv-ts-projects](https://github.com/kijimad/adv-ts-projects)               | Notes of "Advanced TypeScript Programming Projects"                        | ![TypeScript](https://raw.githubusercontent.com/kijimaD/maru/main/images/dot/TypeScript.svg) TypeScript |     25 |    0 |    0 |
